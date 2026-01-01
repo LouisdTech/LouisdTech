@@ -38,12 +38,12 @@ I'm **Ding Lu**, a passionate developer who loves turning ideas into reality thr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dinglu&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinglu&theme=aura&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LouisdTech&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisdTech&theme=aura&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinglu&theme=dracula" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LouisdTech&theme=dracula" alt="trophies"/>
 </div>
 
 ### 🌟 Current Projects
@@ -57,7 +57,7 @@ I'm **Ding Lu**, a passionate developer who loves turning ideas into reality thr
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinglu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LouisdTech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinglu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dinglu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinglu@example.com)
@@ -70,7 +70,7 @@ I'm **Ding Lu**, a passionate developer who loves turning ideas into reality thr
   <h3>💝 Thanks for visiting my GitHub profile!</h3>
   <p>Feel free to explore my repositories and get in touch if you'd like to collaborate or just say hi! 🚀</p>
 
-  <img src="https://komarev.com/ghpvc/?username=dinglu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LouisdTech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
