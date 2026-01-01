@@ -1,4 +1,4 @@
-# 🌟 丁璐 (Ding Lu) 🌟
+# 🌟 Louis 🌟
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Code+Dreamer+%26+Creative+Soul+%F0%9F%92%AB" alt="Typing SVG" />
