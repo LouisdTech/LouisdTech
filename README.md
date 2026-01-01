@@ -1,4 +1,4 @@
-# 🌟 Louis 🌟
+# 🌟 Louis Tech 🌟
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub!+%E2%9C%A8;Code+Dreamer+%26+Creative+Soul+%F0%9F%92%AB" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <h2>✨ About Me ✨</h2>
 </div>
 
-I'm **Ding Lu**, a passionate developer who loves turning ideas into reality through code!
+I'm **Louis**, a passionate developer who loves turning ideas into reality through code!
 
 - 🔭 I'm currently working on some exciting projects like AI-powered applications and creative coding experiments
 - 🌱 Always learning and exploring new technologies in web development, machine learning, and creative coding
